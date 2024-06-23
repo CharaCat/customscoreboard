@@ -31,7 +31,7 @@ dependencies {
     modImplementation("net.fabricmc:fabric-language-kotlin:1.10.13+kotlin.1.9.20")
 
     include(modImplementation("dev.isxander.yacl:yet-another-config-lib-fabric:3.3.0-beta.1+1.20.2")!!)
-    modApi("com.terraformersmc:modmenu:8.0.0")
+    modApi("com.terraformersmc:modmenu:11.0.0")
 }
 
 
