@@ -3,7 +3,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 plugins {
     kotlin("jvm") version "1.9.20"
     kotlin("plugin.serialization") version "1.9.20"
-    id("fabric-loom") version "1.4-SNAPSHOT"
+    id("fabric-loom") version "1.7-SNAPSHOT"
     //id("org.quiltmc.quilt-mappings-on-loom") version "4.2.1"
     id("io.github.juuxel.loom-quiltflower") version "1.9.0"
     id("com.modrinth.minotaur") version "2.8.1"
