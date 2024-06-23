@@ -13,7 +13,7 @@ plugins {
 val minecraftVersion = "1.20.2"
 
 group = "de.royzer"
-version = "1.0.2"
+version = "1.0.3"
 
 repositories {
     maven("https://maven.fabricmc.net/")
