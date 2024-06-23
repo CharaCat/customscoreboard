@@ -10,7 +10,7 @@ plugins {
     id("com.matthewprenger.cursegradle") version "1.4.0"
 }
 
-val minecraftVersion = "1.20.2"
+val minecraftVersion = "1.21"
 
 group = "de.royzer"
 version = "1.0.3"
