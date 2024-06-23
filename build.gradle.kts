@@ -26,8 +26,8 @@ dependencies {
     mappings(loom.officialMojangMappings())
 
 
-    modImplementation("net.fabricmc:fabric-loader:0.14.24")
-    modImplementation("net.fabricmc.fabric-api:fabric-api:0.90.7+1.20.2")
+    modImplementation("net.fabricmc:fabric-loader:0.15.11")
+    modImplementation("net.fabricmc.fabric-api:fabric-api:0.100.3+1.21")
     modImplementation("net.fabricmc:fabric-language-kotlin:1.10.13+kotlin.1.9.20")
 
     include(modImplementation("dev.isxander.yacl:yet-another-config-lib-fabric:3.3.0-beta.1+1.20.2")!!)
